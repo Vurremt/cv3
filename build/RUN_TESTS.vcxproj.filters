@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\evahn\Desktop\Cours Kyushu\Computer Vision\cv3\build\CMakeFiles\f767dcbb5c9d52ef95e7d735b943d6ff\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{38A370E7-A67B-371E-B012-38D027C34D09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
